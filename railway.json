@@ -16,7 +16,7 @@
     "password": "viaqSSRKeMiMLiANTqBpZOhOtDayyxRD",
     "name": "postgres",
     "port": 5432,
-    "ssl": false
+    "ssl": 820
   },
 
   "mail": {
