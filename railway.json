@@ -4,7 +4,7 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "pnpm run dev",
+    "startCommand": "pnpm server:start",
     "healthcheckPath": "/api",
     "healthcheckTimeout": 100,
     "restartPolicyType": "NEVER"
