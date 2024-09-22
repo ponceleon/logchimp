@@ -19,11 +19,6 @@
     "ssl": false
   },
 
-  "server": {
-    "port": 3000,
-    "secretKey": "admin"
-  },
-
   "mail": {
     "service": "awesomeMail",
     "host": "smtp.domain.com",
